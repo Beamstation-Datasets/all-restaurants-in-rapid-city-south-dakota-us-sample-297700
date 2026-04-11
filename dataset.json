@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining market data for Rapid City, South Dakota. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Rapid City, South Dakota, US",
+  "export_job_id": "6b419caa-9769-4ac9-92dd-af770e88b681",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 297700,
+  "location_name": "Rapid City",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-rapid-city-south-dakota-us-sample-297700",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/297700/beamstation_297700_restaurants-us-sd_SAMPLE_DIST.csv",
+  "sample_pct": 9.54,
+  "sample_records": 25,
+  "sample_sha256": "82b16c809ce10f5f9dd2007d2f7be0b98368d1b39a845bfcdf4e16a4513d55f3",
+  "sample_size_bytes": 117916,
+  "total_records": 262,
+  "updated_at": "2026-03-31T12:57:25.216090+00:00"
+}
