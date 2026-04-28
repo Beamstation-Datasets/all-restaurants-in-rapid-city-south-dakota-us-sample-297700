@@ -1,12 +1,12 @@
 {
-  "export_job_id": "114d8350-4bee-4084-858b-c8a678609ea4",
+  "export_job_id": "ade2c512-fc28-4527-a7ca-0301363174b0",
   "id_short": 297700,
-  "published_at": "2026-04-21T19:15:57Z",
+  "published_at": "2026-04-28T19:15:26Z",
   "repo_name": "all-restaurants-in-rapid-city-south-dakota-us-sample-297700",
   "sample_asset_name": "beamstation_297700_restaurants-us-sd_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/297700/beamstation_297700_restaurants-us-sd_SAMPLE_DIST.csv",
-  "sample_records": 8,
-  "sample_sha256": "8e764d47059c8dcb1eba9b93b26c5e61b8dca17edcafccbb948c65f9835adda8",
-  "sample_size_bytes": 47504,
-  "total_records": 88
+  "sample_records": 26,
+  "sample_sha256": "f36be73c9f6b35e6a125fedd45524304de12a6ca6ce18225c2e49a172dbcc8f8",
+  "sample_size_bytes": 101322,
+  "total_records": 263
 }
