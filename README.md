@@ -1,6 +1,6 @@
 # All Restaurants in Rapid City, South Dakota, US
 
-> Free BeamStation sample export with 8 rows and masked direct-contact fields.
+> Free BeamStation sample export with 26 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `297700` |
 | Location | Rapid City |
 | Category | Restaurants |
-| Full dataset size | 88 records |
-| Free sample size | 8 records (9.09%) |
-| Last export | 2026-04-21T14:07:02.428592+00:00 |
+| Full dataset size | 263 records |
+| Free sample size | 26 records (9.89%) |
+| Last export | 2026-04-28T15:07:56.239194+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-rapid-city-south-dakota-us-sample-297700/releases/download/sample-latest/beamstation_297700_restaurants-us-sd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
